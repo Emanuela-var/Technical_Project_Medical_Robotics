@@ -333,11 +333,3 @@ Contact force at point 0: [-0.2798, 0.1254, -0.0158], Magnitude: 0.3071 N
 | Position Tracking Resolution | 0.001 mm |
 
 ---
-
-## 📚 References
-
-1. SOFA Framework Documentation - [sofa-framework.org](https://www.sofa-framework.org/)
-2. BeamAdapter Plugin - [GitHub](https://github.com/sofa-framework/BeamAdapter)
-3. Webster, R.J., & Jones, B.A. (2010). *Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review*. International Journal of Robotics Research.
-4. Dupont, P.E., et al. (2010). *Design and Control of Concentric-Tube Robots*. IEEE Transactions on Robotics.
-
